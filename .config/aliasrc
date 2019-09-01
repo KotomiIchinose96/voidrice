@@ -2,8 +2,6 @@
 alias ka="killall" \
 	mkd="mkdir -pv" \
 	mpv="mpv --input-ipc-server=/tmp/mpvsoc$(date +%s)" \
-	calcurse="calcurse -D ~/.config/calcurse" \
-	magit="nvim -c MagitOnly" \
 	p="sudo pacman" \
 	SS="sudo systemctl" \
 	f="$FILE" \
